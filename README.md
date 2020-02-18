@@ -24,5 +24,5 @@
 ## 一键安装
 
 目前处于测试阶段，不保证一键脚本能安装成功
-> wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/V2ray.Fun/master/install.sh && bash install.sh
+> wget -N --no-check-certificate https://raw.githubusercontent.com/peterGGone/V2ray.Fun/master/install.sh && bash install.sh
 
