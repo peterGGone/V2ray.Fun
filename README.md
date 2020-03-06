@@ -20,6 +20,7 @@
 
 ## 不支持
 - CentOS 6
+- ContOS 8 自行安装python2.7
 
 ## 一键安装
 
